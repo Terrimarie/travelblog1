@@ -37,7 +37,10 @@ This project was written in HTML5, CSS3, Bootstrap 4 using Cloud9 IDE and I back
 # Deployment
 
 # Credits
-
+campervan.jpg campervan1.jpg - yellow Volkswagen van on road Photo by Dino Reichmuth on Unsplash
+lakelandscape.jpg lakelandscape1.jpg - man sitting on gray dock Photo by Simon Migaj on Unsplash
+beach.jpg beach1.jpg - seashore during golden hourPhoto by Sean O. on Unsplash
+laptop.jpg laptop1.jpg - Photo by Sergey Zolkin on Unsplash
 ## Content
 
 ## Media
