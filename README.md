@@ -5,7 +5,7 @@ Milestone Project: User-Centric Frontend Development‚ Code institute
 This is my travel blog website to demonstrate my frontend development skills to prospective employers, the site was created using HTML, HTML5, CSS, CSS3 and Bootstrap 4.
 The travel blog site includes a simple introduction index.html page with a title, sub title, some text, button link to another page, links to other pages, navigation bar, drop down nagivation menu, homepage title link in top left corner, then an image blurb going into more detail about the travel blog and the reason for the website on idex.html and about.html. Then onto another page posts.html where the viewer can explore travel tips via embedded youtube videos and finally a contact.html page where the viewer can sign up and get in contact maybe for ask for to travel tips, advice or a collaboration.
 
-Link to website https://terrimarie.github.io/
+Link to website https://terrimarie.github.io/travelblog1/
 
 # UX
 
@@ -21,7 +21,7 @@ User stories:
 * As a user I want to browse videos to create a new travel experience.
 
 Wireframe/mock up 
-https://balsamiq.cloud/svjcmi0/p4or0hh/r2278
+Wiredrame pdf uploaded to git repository
 
 # Features
 
