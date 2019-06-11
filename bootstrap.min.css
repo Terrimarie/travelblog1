@@ -7843,7 +7843,7 @@ button.bg-dark:hover {
 }
 
 .float-right {
-    float: right!important
+    float: inherit
 }
 
 .float-none {
