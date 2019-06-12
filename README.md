@@ -2,7 +2,10 @@
 
 Milestone Project: User-Centric Frontend Development‚ Code institute
 
-This is my travel blog website to demonstrate my frontend development skills to prospective employers, the site was created using HTML, HTML5, CSS, CSS3, Bootstrap 4, Googlefonts.
+This is my travel blog website to demonstrate my frontend development skills to prospective employers, the site was created using HTML, HTML5, CSS, CSS3, cloud9, Git, GitHub, Bootstrap 4, Googlefonts and Fontawesome 7.5.
+
+The site is easy to use for users who want to discover new and interesting travel destinations.
+
 The travel blog site includes 4 pages every page has a title, text, links to other pages, navigation bars on every page, drop down nagivation menu on every page, homepage title link in top left corner on every page and social media links. The index.html home page has a sub title as well as main title, a simple introduction with a youtube video, a button link to the about me page. 
 The index.html home page has then an image blurb going into more detail about the travel blog and the reason for the website on index.html and about.html. About page has a home page link top left, navigation bar, main title, heading image, blurb about the site. Then onto another page posts.html again with link to home page and navigation bar where the viewer can explore travel tips via embedded youtube videos, starts with some text about the page, then youtube videos and links to travel guides. 
 Finally a contact.html page where the viewer can sign up and get in contact maybe for ask for to travel tips, advice or a collaboration. Validation form added to make sure email address and name/ text is entered.
@@ -23,6 +26,7 @@ User stories:
 * As a user I want to browse videos and guides to create a new travel experience.
 
 Wireframe/mock up 
+
 Wiredrame pdf uploaded to git repository
 
 # Features
