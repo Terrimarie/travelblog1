@@ -1,7 +1,11 @@
+/* -------------------------------------div------- */
+
 div {
     margin-left: 0%;
     margin-right: 0%;
 }
+
+/* -------------------------------------wrappers------- */
 
 .videowrapper {
     margin-left: 30%;
@@ -13,11 +17,15 @@ div {
     width: 1000px;
 }
 
+/* -------------------------------------body------- */
+
 body {
     font-size: 20px;
     color: #212529;
     font-family: 'Shadows Into Light', cursive;
 }
+
+/* -------------------------------------paragraph------- */
 
 p {
     line-height: 1.5;
@@ -27,6 +35,8 @@ p {
 p a {
     text-decoration: underline
 }
+
+/* -------------------------------------heading------- */
 
 h1 {
     margin-left: 10%;
@@ -40,6 +50,8 @@ h6 {
     font-family: 'Shadows Into Light', cursive;
 }
 
+/* -------------------------------------a------- */
+
 a {
     color: #212529;
     -webkit-transition: all 0.2s;
@@ -52,16 +64,22 @@ a:hover {
     color: #0085A1
 }
 
+/* -------------------------------------blockquote------- */
+
 blockquote {
     font-style: italic;
     color: #868e96
 }
+
+/* -------------------------------------section heading------- */
 
 .section-heading {
     font-size: 36px;
     font-weight: 700;
     margin-top: 60px
 }
+
+/* -------------------------------------caption------- */
 
 .caption {
     font-size: 14px;
@@ -73,6 +91,8 @@ blockquote {
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px
 }
+
+/* -------------------------------------selection------- */
 
 ::-moz-selection {
     color: #fff;
@@ -95,6 +115,8 @@ img::-moz-selection {
     color: #fff;
     background: transparent
 }
+
+/* -------------------------------------mainnav------- */
 
 #mainNav {
     position: absolute;
@@ -200,6 +222,8 @@ img::-moz-selection {
     }
 }
 
+/* -------------------------------------header master head------- */
+
 header.masthead {
     margin-bottom: 50px;
     background: no-repeat center center;
@@ -302,6 +326,8 @@ header.masthead .post-heading .meta a {
     }
 }
 
+/* -------------------------------------post preview------- */
+
 .post-preview>a {
     color: #212529
 }
@@ -346,6 +372,8 @@ header.masthead .post-heading .meta a {
         font-size: 36px
     }
 }
+
+/* -------------------------------------floating label form------- */
 
 .floating-label-form-group {
     font-size: 14px;
@@ -405,9 +433,13 @@ header.masthead .post-heading .meta a {
     color: #0085A1
 }
 
+/* -------------------------------------form------- */
+
 form .form-group:first-child .floating-label-form-group {
     border-top: 1px solid #dee2e6
 }
+
+/* -------------------------------------footer------- */
 
 footer {
     padding: 50px 0 65px
@@ -423,6 +455,8 @@ footer .copyright {
     margin-bottom: 0;
     text-align: center
 }
+
+/* -------------------------------------buttons------- */
 
 .btn {
     font-size: 20px;
