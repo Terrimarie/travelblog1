@@ -111,6 +111,7 @@ Fixed href="/" to link index.html homepage.
 Got rid of 404 errors caused by fontawesome links not working added links to fontawesome using travelblog1 links in all.min.css and html head of each page. Moved CSS to its own folder. 
 Alignment issue checked if I missed a tab. Copy pasted from other pages to fix and match.
 Tested responsiveness or site and links.
+Failed to load resource: the server responded with a status of 404 ()
 
 # Deployment
 Deployed project using hosting platform GitHub pages.
@@ -142,6 +143,8 @@ The text for Travel guides - by Dan Flying Solo https://www.danflyingsolo.com/
 The text for text blurbs where my own.
 
 ## Content
+The text for Travel guides - by Dan Flying Solo https://www.danflyingsolo.com/
+The text for text blurbs where my own.
 
 ## Media
 * Photos - Unsplash https://unsplash.com/
